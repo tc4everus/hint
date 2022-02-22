@@ -749,7 +749,7 @@
   dependencies:
     ci-info "^3.1.0"
 
-"@types/jsdom@^16.2.14":
+"@types/jsdom@^16.2.14", "@types/jsdom@^16.2.8":
   version "16.2.14"
   resolved "https://registry.yarnpkg.com/@types/jsdom/-/jsdom-16.2.14.tgz#26fe9da6a8870715b154bb84cd3b2e53433d8720"
   integrity sha512-6BAy1xXEmMuHeAJ4Fv4yXKwBDTGTOseExKE3OaHiNycdHdZw59KfYzrt0DkDluvwmik1HRt6QS7bImxUmpSy+w==
@@ -969,10 +969,10 @@
     "@types/mime" "*"
     "@types/node" "*"
 
-"@types/shelljs@^0.8.10":
-  version "0.8.10"
-  resolved "https://registry.yarnpkg.com/@types/shelljs/-/shelljs-0.8.10.tgz#c33079c9b41a9d6f788f98f1d8a68f880a14f454"
-  integrity sha512-nhBdUA/n0nRo1B6E4BuRnUvllYAqal4T9zd91ZDnBh+qQMQTwvxmJHx6xEn/0vdjP2kqEA5eVeLazs4nMxeuFg==
+"@types/shelljs@^0.8.11":
+  version "0.8.11"
+  resolved "https://registry.yarnpkg.com/@types/shelljs/-/shelljs-0.8.11.tgz#17a5696c825974e96828e96e89585d685646fcb8"
+  integrity sha512-x9yaMvEh5BEaZKeVQC4vp3l+QoFj3BXcd4aYfuKSzIIyihjdVARAadYy3SMNIz0WCCdS2vB9JL/U6GQk5PaxQw==
   dependencies:
     "@types/glob" "*"
     "@types/node" "*"
