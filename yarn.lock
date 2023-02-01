@@ -295,10 +295,10 @@
   resolved "https://registry.yarnpkg.com/@mdn/browser-compat-data/-/browser-compat-data-4.0.11.tgz#c49a72db566e9d4651f43398da276289811c868f"
   integrity sha512-rmQPBLe3/DuJy0Bcr1KNuSiIcgV67R2AeLxagKMQTI0R8F9lLC894wJRYhA5ytV0CIi7dzxILqdFeuVbqrkoCA==
 
-"@mdn/browser-compat-data@^4.0.12":
-  version "4.0.12"
-  resolved "https://registry.yarnpkg.com/@mdn/browser-compat-data/-/browser-compat-data-4.0.12.tgz#ea5472755d8460b711c61b6ed8f47f92f782c6c0"
-  integrity sha512-vUxvn5V8KLQAm9EmxOv9STqsZrEuJbY5rKoxOwM31cKN34qzBbGpy+yOl4OQh3eqXh7S5uIOyIleZS3rKsuf4g==
+"@mdn/browser-compat-data@^5.2.33":
+  version "5.2.33"
+  resolved "https://registry.yarnpkg.com/@mdn/browser-compat-data/-/browser-compat-data-5.2.33.tgz#b1dd87e221097d76d185ea8e5ffb6649295f2770"
+  integrity sha512-CEhwV3X4w6Hv1SiaWQFtChNGZ/p7VwdFRQ4dL6ieYACMm6EI0XTWtA1L+afkbV4eCB8bS63cmSYVyzsETZryDA==
 
 "@nodelib/fs.scandir@2.1.3":
   version "2.1.3"
@@ -756,6 +756,15 @@
   dependencies:
     "@types/node" "*"
     "@types/parse5" "*"
+    "@types/tough-cookie" "*"
+
+"@types/jsdom@^16.2.8":
+  version "16.2.15"
+  resolved "https://registry.yarnpkg.com/@types/jsdom/-/jsdom-16.2.15.tgz#6c09990ec43b054e49636cba4d11d54367fc90d6"
+  integrity sha512-nwF87yjBKuX/roqGYerZZM0Nv1pZDMAT5YhOHYeM/72Fic+VEqJh4nyoqoapzJnW3pUlfxPY5FhgsJtM+dRnQQ==
+  dependencies:
+    "@types/node" "*"
+    "@types/parse5" "^6.0.3"
     "@types/tough-cookie" "*"
 
 "@types/json-schema@*", "@types/json-schema@^7.0.4", "@types/json-schema@^7.0.5", "@types/json-schema@^7.0.6", "@types/json-schema@^7.0.7", "@types/json-schema@^7.0.8":
