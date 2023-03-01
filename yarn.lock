@@ -758,6 +758,15 @@
     "@types/parse5" "*"
     "@types/tough-cookie" "*"
 
+"@types/jsdom@^16.2.8":
+  version "16.2.15"
+  resolved "https://registry.yarnpkg.com/@types/jsdom/-/jsdom-16.2.15.tgz#6c09990ec43b054e49636cba4d11d54367fc90d6"
+  integrity sha512-nwF87yjBKuX/roqGYerZZM0Nv1pZDMAT5YhOHYeM/72Fic+VEqJh4nyoqoapzJnW3pUlfxPY5FhgsJtM+dRnQQ==
+  dependencies:
+    "@types/node" "*"
+    "@types/parse5" "^6.0.3"
+    "@types/tough-cookie" "*"
+
 "@types/json-schema@*", "@types/json-schema@^7.0.4", "@types/json-schema@^7.0.5", "@types/json-schema@^7.0.6", "@types/json-schema@^7.0.7", "@types/json-schema@^7.0.8":
   version "7.0.9"
   resolved "https://registry.yarnpkg.com/@types/json-schema/-/json-schema-7.0.9.tgz#97edc9037ea0c38585320b28964dde3b39e4660d"
@@ -1014,10 +1023,10 @@
     "@types/configstore" "*"
     boxen "^4.2.0"
 
-"@types/vscode@^1.60.0":
-  version "1.60.0"
-  resolved "https://registry.yarnpkg.com/@types/vscode/-/vscode-1.60.0.tgz#9330c317691b4f53441a18b598768faeeb71618a"
-  integrity sha512-wZt3VTmzYrgZ0l/3QmEbCq4KAJ71K3/hmMQ/nfpv84oH8e81KKwPEoQ5v8dNCxfHFVJ1JabHKmCvqdYOoVm1Ow==
+"@types/vscode@^1.75.1":
+  version "1.75.1"
+  resolved "https://registry.yarnpkg.com/@types/vscode/-/vscode-1.75.1.tgz#21d16480c04a50a1ceb693ea7577c58f88301579"
+  integrity sha512-emg7wdsTFzdi+elvoyoA+Q8keEautdQHyY5LNmHVM4PTpY8JgOTVADrGVyXGepJ6dVW2OS5/xnLUWh+nZxvdiA==
 
 "@types/webpack@^5.28.0":
   version "5.28.0"
